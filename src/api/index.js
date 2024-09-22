@@ -1,0 +1,1 @@
+export { default as reminderApi, serviceID, templateID, publicKey } from './reminderApi';

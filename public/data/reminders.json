@@ -1,0 +1,40 @@
+{
+	"ok": true,
+	"data": {
+        "reminders": [
+            {
+                "id": "8vnm394875",
+                "name": "Tarjeta de Crédito",
+                "category": "bank",
+                "expDate": "2025-10-15T00:20:30Z",
+                "number": "565367",
+                "user": {
+                    "id": "64377rhyehfd",
+                    "name": "Marcia Andrade"
+                }
+            },
+            {
+                "id": "hfsuifh87w3456",
+                "name": "Factura gas",
+                "category": "bill",
+                "expDate": "2024-12-05T00:00:00Z",
+                "number": "9834",
+                "user": {
+                    "id": "64377rhyehfd",
+                    "name": "Marcia Andrade"
+                }
+            },
+            {
+                "id": "hfghfg654",
+                "name": "Licencia de conducir",
+                "category": "licence",
+                "expDate": "2024-09-20T00:10:00Z",
+                "number": "",
+                "user": {
+                    "id": "64377rhyehfd",
+                    "name": "Marcia Andrade"
+                }
+            }
+        ]
+    }
+}
